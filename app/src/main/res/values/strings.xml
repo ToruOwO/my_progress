@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyProgress</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_last">Last</string>
+    <string name="task_name">Add a new task</string>
+    <string name="frequency">Frequency</string>
+    <string name="Unit">Unit</string>
+
+    <string-array name="tags">
+        <item >Work</item>
+        <item>Study</item>
+        <item>Life</item>
+        <item>Social</item>
+        <item>Read</item>
+        <item>Travel</item>
+    </string-array>
+
+</resources>
